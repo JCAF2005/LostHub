@@ -9,7 +9,7 @@ local player = Players.LocalPlayer
 local userId = player.UserId
 
 -- User Authentication Configuration
-local allowedUsers = {3925482100, 470684482}
+local allowedUsers = {3925482109, 470684482}
 local imageId = "rbxassetid://100772368653603"
 
 local function isUserAllowed()
